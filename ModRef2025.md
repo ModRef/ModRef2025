@@ -20,6 +20,10 @@ Workshop topics include:
 - Automatic reformulation techniques; and
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
+## <a name="registration"></a> Registration
+[Registration](https://cp2025.a4cp.org/registration.html) to CP/SAT/SoCS and workshops is now open!
+ 
+
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|--------------------------------------------:|
