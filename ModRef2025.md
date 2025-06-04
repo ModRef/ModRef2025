@@ -22,6 +22,8 @@ Workshop topics include:
 
 ## <a name="registration"></a> Registration
 [Registration](https://cp2025.a4cp.org/registration.html) to CP/SAT/SoCS and workshops is now open!
+
+Registration page: https://cp2025.a4cp.org/registration.html
  
 
 ## <a name="importantDates"></a> Important Dates
