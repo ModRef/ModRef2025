@@ -51,7 +51,9 @@ Paper Submission Link: [https://openreview.net/group?id=a4cp.org/CP/2025/Worksho
 
 [Marijn Heule](https://www.cs.cmu.edu/~mheule/), Carnegie Mellon University
 
-**Solving Problems in Discrete Geometry Using SAT**
+**Automated Reasoning in Discrete Geometry: Discovery, Verification, and Symmetry**
+
+Automated reasoning tools have recently enabled breakthroughs in discrete geometry, solving long-standing open problems and providing new mathematical insights. This talk highlights three such advances. First, we resolve the empty hexagon problem, originating nearly a century ago, by proving that every set of 30 points in general position in the plane contains six points in convex position with no other point inside. The solution relies on a compact encoding and an efficient partitioning strategy that scales to thousands of cores. Second, we present a SAT- and MaxSAT-based pipeline for studying extremal configurations of convex pentagons. Our tools help discover new point configurations, guide conjectures, and verify upper and lower bounds for small instances, improving known results for n≤16. Finally, we explore a symmetry-driven approach to geometric problem solving. By encoding rotational symmetry directly into the SAT formulations, we find elegant and minimal solutions to problems such as the Erdős-Szekeres theorem and the everywhere-unbalanced-points problem. Across all cases, the synergy between automated reasoning and mathematical insight not only produces verifiable results but also enhances interpretability and aesthetic appeal.
 
 ## <a name="acceptedPapers"></a> Accepted Papers
 
