@@ -62,7 +62,68 @@ TBA
 
 ## <a name="schedule"></a> Schedule
 
-TBA
+Provisional Schedule is as follows. Long talks are 20 minutes plus 5 minutes questions.  Short talks are 10 minutes plus 5 minutes questions.  Invited talk is 50 minutes plus 10 minutes questions.
+
+### 9.00-10.30  Invited Talk plus 2 Short Talks
+
++ Invited Talk: Automated Reasoning in Discrete Geometry: Discovery, Verification, and Symmetry.
+Marijn Heule
+
++ Machine Learning Model for Selecting Assignments of Variables for SAT Problems.
+Jonathan Benjamin Oliva Salinas, Peter Nightingale.
+Short Presentation
+
++ STRIPS-2-DyPDL: Translating Automated Planning Problems into Domain-Independent Dynamic Programming Problems.  
+Dillon Ze Chen. 
+Short presentation by video
+
+### 10.30-11.00 Coffee
+
+### 11.00-12.20  Session 2: 2 long talks and 2 short talks
+
++ Undefinedness in Planning with Arrays.
+Carla Davesa Sureda, Joan Espasa, Ian Miguel, Mateu Villaret 
+
++ Asymptotically Smaller Encodings for Graph Problems and Scheduling.
+Bernardo Subercaseaux 
+
++ Declarative pearl: I put a SAT solver in your SAT solver so you can find backdoors slowly.
+Martin Mariusz Lester.
+Short Presentation
+    
++ Evaluating the Impact of Encoding on SAT Based Constraint Solving in Exchequer.
+Aadil Sattar, Martin Mariusz Lester. 
+Short presentation   
+
+### 12.20 - 1.30pm Lunch
+
+### 1.30-3.00pm  Session 3: 3 Long talks plus 1 short talk
+
++ Solver-Aided Expansion of Loops to Avoid Generate-and-Test.
+Niklas Dewally, Özgür Akgün
+
++ Integer Linear Programming Techniques for Enhancing Branch and Bound MaxSAT Solvers.
+Jialu Zhang, Chu-Min Li, Sami Cherif, Shuolin Li, Zhifei Zheng 
+
++ Modeling the p-Dispersion Problem with Distance Constraints.
+Panteleimon Iosif, Nikolaos Ploskas, Kostas Stergiou, Dimos Tsouros
+
++ Mutual B refinements as a justification for constraints model reformulations.
+Jean-Louis Dufour. 
+Short presentation 
+
+### 3pm - 3.30 Coffee
+
+### 3.30 -  5pm. Session 4: 2 Long talks plus Discussion Session
+
++ Modeling the Inglenook Shunting Puzzle.
+Helmut Simonis, Luis Quesada 
+
++ A new Constraint Programming model for the Multiple Constant Multiplication.
+Cantaloube Théo, XIAO PENG, Christine Solnon, Anastasia Volkova 
+
++ Where Now For Modelling in SAT, Constraints, Planning, and Everywhere Else?
+      Open Discussion Session : topics welcome plus any that arise during the day
 
 ## <a name="programCommittee"></a> Program Committee
 
