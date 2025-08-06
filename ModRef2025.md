@@ -60,10 +60,11 @@ _Abstract_: Automated reasoning tools have recently enabled breakthroughs in dis
 
 + [STRIPS-2-DyPDL: Translating Automated Planning Problems into Domain-Independent Dynamic Programming Problems.](papers/ModRef2025_1_STRIPS_2_DyPDL_Translating_A-1.pdf)
  
-Dillon Ze Chen. 
+  Dillon Ze Chen. 
 
-+ Undefinedness in Planning with Arrays.
-Carla Davesa Sureda, Joan Espasa, Ian Miguel, Mateu Villaret 
++  [Undefinedness in Planning with Arrays.](papers/ModRef2025_10_Undefinedness_in_Planning_w.pdf)
+
+   Carla Davesa Sureda, Joan Espasa, Ian Miguel, Mateu Villaret 
 
 + Solver-Aided Expansion of Loops to Avoid Generate-and-Test.
 Niklas Dewally, Özgür Akgün
