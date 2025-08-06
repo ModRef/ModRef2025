@@ -58,7 +58,8 @@ _Abstract_: Automated reasoning tools have recently enabled breakthroughs in dis
 ## <a name="acceptedPapers"></a> Accepted Papers
 
 
-+ STRIPS-2-DyPDL: Translating Automated Planning Problems into Domain-Independent Dynamic Programming Problems.  
++ [STRIPS-2-DyPDL: Translating Automated Planning Problems into Domain-Independent Dynamic Programming Problems.](papers/ModRef2025_1_STRIPS_2_DyPDL_Translating_A-1.pdf)
+ 
 Dillon Ze Chen. 
 
 + Undefinedness in Planning with Arrays.
