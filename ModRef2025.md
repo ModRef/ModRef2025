@@ -57,7 +57,43 @@ _Abstract_: Automated reasoning tools have recently enabled breakthroughs in dis
 
 ## <a name="acceptedPapers"></a> Accepted Papers
 
-TBA
+
++ STRIPS-2-DyPDL: Translating Automated Planning Problems into Domain-Independent Dynamic Programming Problems.  
+Dillon Ze Chen. 
+
++ Undefinedness in Planning with Arrays.
+Carla Davesa Sureda, Joan Espasa, Ian Miguel, Mateu Villaret 
+
++ Solver-Aided Expansion of Loops to Avoid Generate-and-Test.
+Niklas Dewally, Özgür Akgün
+
++ Mutual B refinements as a justification for constraints model reformulations.
+Jean-Louis Dufour.
+
++ Modeling the p-Dispersion Problem with Distance Constraints.
+Panteleimon Iosif, Nikolaos Ploskas, Kostas Stergiou, Dimos Tsouros
+
++ Declarative pearl: I put a SAT solver in your SAT solver so you can find backdoors slowly.
+Martin Mariusz Lester.
+
++ Machine Learning Model for Selecting Assignments of Variables for SAT Problems.
+Jonathan Benjamin Oliva Salinas, Peter Nightingale.
+
++ Evaluating the Impact of Encoding on SAT Based Constraint Solving in Exchequer.
+Aadil Sattar, Martin Mariusz Lester. 
+
++ Modeling the Inglenook Shunting Puzzle.
+Helmut Simonis, Luis Quesada 
+
++ Asymptotically Smaller Encodings for Graph Problems and Scheduling.
+Bernardo Subercaseaux
+
++ A new Constraint Programming model for the Multiple Constant Multiplication.
+Cantaloube Théo, XIAO PENG, Christine Solnon, Anastasia Volkova 
+
++ Integer Linear Programming Techniques for Enhancing Branch and Bound MaxSAT Solvers.
+Jialu Zhang, Chu-Min Li, Sami Cherif, Shuolin Li, Zhifei Zheng
+
 
 
 ## <a name="schedule"></a> Schedule
