@@ -183,8 +183,10 @@ Cantaloube Théo, XIAO PENG, Christine Solnon, Anastasia Volkova
 | María Andreína Francisco Rodríguez (Chair) | Uppsala University                  |
 | Ian Gent (Chair)                           | University of St Andrews            |
 | Özgür Akgün                                | University of St Andrews            |
+| Carlos Ansótegui                           | Universitat de Lleida               |
 | Ramiz Gindullin                            | Uppsala University                  |
 | Christopher Jefferson                      | University of St Andrews            |
+| George Katsirelos                          | INRAE                               |
 | Jan Kronqvist                              | KTH                                 |
 | Jimmy Lee                                  | The Chinese University of Hong Kong |
 | Kevin Leo                                  | Monash University                   |
